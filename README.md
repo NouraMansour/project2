@@ -16,4 +16,4 @@ Please make sure to update tests as appropriate.
 # License
 [MIT](https://opensource.org/licenses/MIT)
 [MIT](https://opensource.org/licenses/MIT)
-![Python](https://towardsdatascience.com/a-guide-to-pythons-dunder-methods-3b8104fce335)
+![Python](https://www.techzine.eu/wp-content/uploads/2019/09/shutterstock_701798635-1284x856.jpg)
