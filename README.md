@@ -16,4 +16,4 @@ Please make sure to update tests as appropriate.
 # License
 [MIT](https://opensource.org/licenses/MIT)
 [MIT](https://opensource.org/licenses/MIT)
-![Python](https://images.hdqwalls.com/wallpapers/python-logo-4k-i6.jpg)
+![Python]([https://images.hdqwalls.com/wallpapers/python-logo-4k-i6.jpg](https://towardsdatascience.com/a-guide-to-pythons-dunder-methods-3b8104fce335)
